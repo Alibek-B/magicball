@@ -1,4 +1,3 @@
-
 answers = [
 	# Положительные
   "Бесспорно",
@@ -41,3 +40,4 @@ puts greeting.sample
 sleep 2
 
 puts answers.sample
+
