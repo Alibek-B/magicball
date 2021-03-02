@@ -33,11 +33,8 @@ greeting = [
   "Кто вопрошает, тот получит ответ:",
   "Здравствуй, смертный. Сегодня для тебя такой ответ:"
 ]
-
-
 puts greeting.sample
 
 sleep 2
 
 puts answers.sample
-

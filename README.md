@@ -5,4 +5,5 @@
 [wiki](https://en.wikipedia.org/wiki/Magic_8-Ball)
 #### Запуск:
 Для запуска программы используйте команду:
+
 ```ruby magicball.rb```
